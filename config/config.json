@@ -1,0 +1,22 @@
+{
+  "OWNER_ADDRESS": "0x593E8155a9c41D7ceAd8452d11D1b011CBC4ADDE",
+  "CONTRACT_ADDRESS": "0xf4F731dFad30E270a576a3A4aE09c98470E4C984",
+  
+  
+  "SCAN_LINK": "https://Etherscan.com/address/0xf4F731dFad30E270a576a3A4aE09c98470E4C984 ",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "SpaceTurtles NFT",
+  "SYMBOL": "ST",
+  "MAX_SUPPLY": 9000,
+  "WEI_COST": 60000000000000000,
+
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/SpaceTurtlesNFT-REALONE",
+  "SHOW_BACKGROUND": true
+}
